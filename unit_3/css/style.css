@@ -1,31 +1,32 @@
 section {
 	background: url("images/heromiage.jpg");
+	background-size: cover;
 }
 
 h1 {
-	font-family: Roboto Slab, serif;
+	font-family: "Roboto Slab", serif;
 }
 
 h2 {
-	font-family: Roboto Slab, serif;
+	font-family: "Roboto Slab", serif;
 	font-weight: 700;
 	color: #fff
 }
 
 h3 {
-	font-family: Roboto Slab, serif;
+	font-family: "Roboto Slab", serif;
 }
 
 h4 {
-	font-family: Roboto Slab, serif;
+	font-family: "Roboto Slab", serif;
 }
 
 h5 {
-	font-family: Open Sans, sans-serif;
+	font-family: "Open Sans", sans-serif;
 }
 
 p {
-	font-family: Open Sans, sans-serif;
+	font-family: "Open Sans", sans-serif;
 }
 
 #tagline {
