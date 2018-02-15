@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+img {
+	display: block;
+	width: 100%;
+}
+
+body {
+	font-family: "Open Sans", sans-serif;
+}
+
+h1, h2, h3, h4 {
+	font-family: "Source Sans Pro", sans-serif;
+}
+
+h2 {
+	color: #fff
+}
+
+#tagline {
+	color: #fff
+}
+
+#heroimage{
+	position: relative;
+}
+
+#herotext{
+	position:absolute;
+	top: 50%;
+	left: 20px;
+}
